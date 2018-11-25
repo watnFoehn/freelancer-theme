@@ -7,7 +7,7 @@ skills: "Web Developer - Läufer - Bibliothekar"
 meta_author: Hoehne Felix
 keywords: "web developer, portfolio"
 skills: "Web Developer"
-baseurl: "/freelancer-theme"
+baseurl: "felixhoehne.de"
 
 # Google webmaster tools
 google_verify:
@@ -34,28 +34,21 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Felix Höhne
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/watnFoehn
+  - title: linkedin
+    url: https://www.linkedin.com/in/felix-hoehne/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Berlin
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
