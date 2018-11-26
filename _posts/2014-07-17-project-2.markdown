@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 date: 2018-11-10
-img: amalgamate.png
+img: amalgamate_2.png
 alt: amalgamate-screenshot
 project-date: November 2018
-client: http://amalgamate.herokuapp.com
+link: http://amalgamate.herokuapp.com
 category: Web Development
 description: After five weeks of the Ironhack Bootcamp we had the chance to build an app. This is an icebreaking network for closed groups (such as a Bootcamp cohort) to get to know each other faster. We used Express, node, MongoDB and more. We had time for five days.
 
