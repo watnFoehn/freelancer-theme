@@ -6,7 +6,6 @@ date: 2014-07-15
 img: image.png
 alt: image-alt
 project-date: December 2018
-link: tba
 category: Web Development
 description: This is the final project in the Ironhack Bootcamp. It started in week 8 of 9 and we had 10 days.
 Work in progress.
