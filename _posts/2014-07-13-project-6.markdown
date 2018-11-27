@@ -3,7 +3,7 @@ title: WIP
 layout: default
 modal-id: 1
 date: 2018-11-25
-img: image.png
+img: wip.png
 alt: WIP-screenshot
 project-date: November 2018
 category: Web Development
