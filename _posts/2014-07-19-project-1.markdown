@@ -4,6 +4,7 @@ title: WIP
 modal-id: 1
 date: 2018-10-12
 img: wip.png
+alt: wip-screenshot
 
 ---
 
