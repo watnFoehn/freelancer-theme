@@ -2,12 +2,14 @@
 title: WIP
 layout: default
 modal-id: 1
-date: 2018-11-25
+date: 2018-11-26
 img: wip.png
-alt: WIP-screenshot
-project-date: November 2018
+alt: wip-text-screenshot
+project-date: November/December 2018
 category: Web Development
 description: This is the final project in the Ironhack Bootcamp. It started in week 8 of 9 and we had 10 days.
 Work in progress.
 
 ---
+
+
