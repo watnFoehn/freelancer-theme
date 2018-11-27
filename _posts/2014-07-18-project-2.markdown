@@ -1,6 +1,6 @@
 ---
-title: Portfolio
 layout: default
+title: Portfolio
 modal-id: 2
 date: 2018-11-25
 img: portfolio.png
