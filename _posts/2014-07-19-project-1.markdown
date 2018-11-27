@@ -7,7 +7,7 @@ img: wip.png
 alt: wip-screenshot
 project-date: December 2018
 category: Web Development
-description:
+description: This is the final project of the Ironhack Bootcamp.
 
 ---
 
