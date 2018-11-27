@@ -1,6 +1,6 @@
 ---
-title: WIP
 layout: default
+title: WIP
 modal-id: 1
 date: 2018-11-26
 img: wip.png
