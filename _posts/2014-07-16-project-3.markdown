@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Ironfarm
 modal-id: 4
 date: 2018-10-25
 img: ironfarm.png

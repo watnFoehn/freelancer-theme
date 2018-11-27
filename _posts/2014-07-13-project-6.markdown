@@ -1,8 +1,9 @@
 ---
 layout: default
+title: WIP
 modal-id: 1
 date: 2014-07-15
-img: 
+img: image.png
 alt: image-alt
 project-date: December 2018
 link: tba

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: einpaarminuten
 modal-id: 5
 date: 2014-07-15
 img: einpaarminuten.png
