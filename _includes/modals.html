@@ -21,25 +21,25 @@
                             <ul class="list-inline item-details">
                                 {% if post.link %}
                                     <li>Service:
-                                        <strong><a href="http://startbootstrap.com">{{ post.link }}</a>
+                                        <strong><a href={{ post.link }}>{{ post.link }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.client %}
                                     <li>Client:
-                                        <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                        <strong>{{ post.client }}
                                         </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.project-date %}
                                     <li>Date:
-                                        <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                        <strong>{{ post.project-date }}
                                         </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.category %}
                                     <li>Service:
-                                        <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                        <strong>{{ post.category }}
                                         </strong>
                                     </li>
                                 {% endif %}
