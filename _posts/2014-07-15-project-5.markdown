@@ -9,6 +9,5 @@ project-date: May 2018
 client: My partner in crime
 link: https://einpaarminuten.de/
 description: This is the personal blog of my girlfriend. It's realized with WordPress, theme and plugins. I am the admin of this project.
-<a href="https://einpaarminuten.de/">https://einpaarminuten.de/</a>
 
 ---
