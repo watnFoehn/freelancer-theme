@@ -7,7 +7,6 @@ img: wortskizze.png
 alt: wortskizze-screenshot
 project-date: Juni 2014
 link: https://wortskizze.wordpress.com/
-category: Blog
 description: This is my personal playground. I put here whatever I want. Mostly it's poems, writings and experiments. It's a Wordpress blog.
 
 ---
