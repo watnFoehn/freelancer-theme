@@ -8,6 +8,5 @@ alt: wortskizze-screenshot
 project-date: Juni 2014
 link: https://wortskizze.wordpress.com/
 description: This is my personal playground. I put here whatever I want. Mostly it's poems, writings and experiments. It's a Wordpress blog.
-<a href="https://wortskizze.wordpress.com/">https://wortskizze.wordpress.com/</a>
 
 ---
