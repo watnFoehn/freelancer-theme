@@ -1,13 +1,13 @@
 ---
 layout: default
-title: WIP
+title: Carrot Love
 modal-id: 1
 date: 2018-12-10
-img: wip.png
-alt: wip-screenshot
+img: carrotlove.png
+alt: carrotlove-screenshot
 project-date: December 2018
-category: Web Development
-description: This is the final project of the Ironhack Bootcamp.
+link: https://carrotlove.herokuapp.com
+description: Realized with the MERN Stack and grommet.io as library. Also Google Login and the Open Farm API are integrated. This is the final project of the Ironhack Bootcamp, I realized it with a partner and we had 8 days of time.
 
 ---
 
