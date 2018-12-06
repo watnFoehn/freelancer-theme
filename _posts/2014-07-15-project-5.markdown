@@ -6,7 +6,6 @@ date: 2014-07-15
 img: einpaarminuten.png
 alt: einpaarminuten.de-screenshot
 project-date: May 2018
-client: My partner in crime
 link: https://einpaarminuten.de/
 description: This is the personal blog of my girlfriend. It's realized with WordPress, theme and plugins. I am the admin of this project.
 
