@@ -7,6 +7,7 @@ img: ironfarm.png
 alt: ironfarm-screenshot
 project-date: October 2018
 link: https://watnfoehn.github.io/Ironfarm/
+githublink: https://github.com/watnFoehn/Ironfarm
 description: This game was developed by me after two weeks in the Ironhack Bootcamp. It's build with jQuery, JavaScript, HTML and CSS. It's controlled with arrow keys and control.
 
 ---
