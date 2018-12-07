@@ -7,6 +7,7 @@ img: amalgamate.png
 alt: amalgamate-screenshot
 project-date: November 2018
 link: http://amalgamate.herokuapp.com
+githublink: https://github.com/watnFoehn/amalga_mate
 description: After five weeks of the Ironhack Bootcamp we had the chance to build an app. This is an icebreaking network for closed groups (such as a Bootcamp cohort) to get to know each other faster. We used Express, node, MongoDB and more. We had time for five days.
 
 ---
