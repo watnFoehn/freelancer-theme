@@ -7,6 +7,7 @@ img: carrotlove.png
 alt: carrotlove-screenshot
 project-date: December 2018
 link: https://carrotlove.herokuapp.com
+githublink: https://github.com/MattStaudinger/carrot-love
 description: Realized with the MERN Stack and grommet.io as library. Also Google Login and the Open Farm API are integrated. This is the final project of the Ironhack Bootcamp, I realized it with a partner and we had 8 days of time.
 
 ---
