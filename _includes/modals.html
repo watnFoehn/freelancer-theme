@@ -25,6 +25,12 @@
                                         </strong>
                                     </li>
                                 {% endif %}
+                                {% if post.githublink %}
+                                    <li>GitHub Repository:
+                                        <strong><a href="{{ post.githublink }}" target="_blank" rel="noopener">{{ post.githublink }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
                                 {% if post.client %}
                                     <li>Client:
                                         <strong>{{ post.client }}
