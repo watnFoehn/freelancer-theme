@@ -3,7 +3,7 @@ layout: default
 title: Carrot Love
 modal-id: 1
 date: 2018-12-10
-img: carrotlove.png
+img: carrotlove.jpg
 alt: carrotlove-screenshot
 project-date: December 2018
 link: https://carrotlove.herokuapp.com

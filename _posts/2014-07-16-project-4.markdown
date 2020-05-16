@@ -3,7 +3,7 @@ layout: default
 title: Ironfarm
 modal-id: 6
 date: 2018-10-25
-img: ironfarm.png
+img: ironfarm.jpg
 alt: ironfarm-screenshot
 project-date: October 2018
 link: https://watnfoehn.github.io/Ironfarm/

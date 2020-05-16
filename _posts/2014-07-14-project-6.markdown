@@ -3,7 +3,7 @@ layout: default
 title: wortskizze
 modal-id: 8
 date: 2014-07-14
-img: wortskizze.png
+img: wortskizze.jpg
 alt: wortskizze-screenshot
 project-date: Juni 2014
 link: https://wortskizze.wordpress.com/

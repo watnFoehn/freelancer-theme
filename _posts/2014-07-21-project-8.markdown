@@ -3,7 +3,7 @@ layout: default
 title: freecodecampe Front End Libraries Certificate
 modal-id: 5
 date: 2020-05-16
-img: frontend_libraries.png
+img: frontend_libraries.jpg
 alt: frontend-libraries-certificate-screenshot
 project-date: April 2020 
 link: https://www.freecodecamp.org/certification/watnfoehn/front-end-libraries

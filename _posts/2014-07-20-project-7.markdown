@@ -3,7 +3,7 @@ layout: default
 title: freecodecampe Responsive Web Design Certificate
 modal-id: 3
 date: 2020-05-16
-img: web_design.png
+img: web_design.jpg
 alt: web-design-certificate-screenshot
 project-date: October 2019
 link: https://www.freecodecamp.org/certification/watnfoehn/responsive-web-design

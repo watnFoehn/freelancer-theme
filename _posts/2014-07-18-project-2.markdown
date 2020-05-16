@@ -3,7 +3,7 @@ layout: default
 title: Portfolio
 modal-id: 2
 date: 2018-11-25
-img: portfolio.png
+img: portfolio.jpg
 alt: portfolio-screenshot
 project-date: November 2018
 link: http://felixjeckel.de/

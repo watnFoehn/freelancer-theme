@@ -3,7 +3,7 @@ layout: default
 title: Amalgamate
 modal-id: 4
 date: 2018-11-10
-img: amalgamate.png
+img: amalgamate.jpg
 alt: amalgamate-screenshot
 project-date: November 2018
 link: http://amalgamate.herokuapp.com

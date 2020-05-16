@@ -3,7 +3,7 @@ layout: default
 title: einpaarminuten
 modal-id: 7
 date: 2014-07-15
-img: einpaarminuten.png
+img: einpaarminuten.jpg
 alt: einpaarminuten.de-screenshot
 project-date: May 2018
 link: https://einpaarminuten.de/
