@@ -5,17 +5,8 @@ on:
       - master
 
 jobs:
-  build:
-    name: Build
-    runs-on: ubuntu-latest
-    steps:
-      - name: install dependencies
-        run: npm install firebase-tools
-      - name: build the _site  
-        run: bundle exec jekyll build --verbose
   deploy:
     name: Deploy
-    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
