@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: install dependencies
-      - run: npm install firebase-tools  
-      - run: bundle exec jekyll build --verbose
+        run: npm install firebase-tools
+      - name: build the _site  
+        run: bundle exec jekyll build --verbose
   deploy:
     name: Deploy
     needs: build
