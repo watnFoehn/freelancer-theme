@@ -1,9 +1,9 @@
 # Site settings
-title: Felix Höhne | Portfolio
-email: hoehnefelix@googlemail.com
-url: https://felixhoehne.de
-description: "Portfolio Felix Höhne"
-meta_author: Hoehne Felix
+title: Felix Jeckel | Portfolio
+email: felix.jeckel@mailbox.org
+url: https://felixjekel.de
+description: "Portfolio Felix Jeckel"
+meta_author: Jeckel Felix
 keywords: "web developer, portfolio"
 skills: "Web and App Developer . I did the Ironhack Bootcamp in Berlin. Self-learner with skills in React, React Native, Javascript, MongoDB, Express, Node.js, HTML, CSS."
 baseurl: ""
@@ -33,7 +33,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Felix Höhne
+  copyright: Felix Jeckel
   location: Location
   social: Around the Web
   credits: Credits
