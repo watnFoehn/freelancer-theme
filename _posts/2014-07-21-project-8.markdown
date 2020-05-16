@@ -1,0 +1,14 @@
+---
+layout: default
+title: freecodecampe Front End Libraries Certificate
+modal-id: 5
+date: 2020-05-16
+img: frontend_libraries.png
+alt: frontend-libraries-certificate-screenshot
+project-date: April 2020 
+link: https://www.freecodecamp.org/certification/watnfoehn/front-end-libraries
+description: Developer Certification, representing approximately 300 hours of coursework. Amongst other things, topics were; Bootstrap, jQuery, Sass, React, Redux, 5 sample projects.
+
+---
+
+
