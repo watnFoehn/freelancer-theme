@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator>
-  <link href="https://felixjekel.de/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://felixjekel.de/" rel="alternate" type="text/html" />
-  <updated>2020-05-16T17:32:02+02:00</updated>
-  <id>https://felixjekel.de/</id>
+  <link href="https://felixjeckel.de/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://felixjeckel.de/" rel="alternate" type="text/html" />
+  <updated>2020-05-16T17:36:01+02:00</updated>
+  <id>https://felixjeckel.de/</id>
 
   
     <title type="html">Felix Jeckel | Portfolio</title>
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">freecodecampe Front End Libraries Certificate</title>
-      <link href="https://felixjekel.de/2020/05/16/project-8/" rel="alternate" type="text/html" title="freecodecampe Front End Libraries Certificate" />
+      <link href="https://felixjeckel.de/2020/05/16/project-8/" rel="alternate" type="text/html" title="freecodecampe Front End Libraries Certificate" />
       <published>2020-05-16T00:00:00+02:00</published>
       <updated>2020-05-16T00:00:00+02:00</updated>
-      <id>https://felixjekel.de/2020/05/16/project-8</id>
-      <content type="html" xml:base="https://felixjekel.de/2020/05/16/project-8/"></content>
+      <id>https://felixjeckel.de/2020/05/16/project-8</id>
+      <content type="html" xml:base="https://felixjeckel.de/2020/05/16/project-8/"></content>
 
       
       
@@ -53,11 +53,11 @@
   
     <entry>
       <title type="html">freecodecampe Responsive Web Design Certificate</title>
-      <link href="https://felixjekel.de/2020/05/16/project-7/" rel="alternate" type="text/html" title="freecodecampe Responsive Web Design Certificate" />
+      <link href="https://felixjeckel.de/2020/05/16/project-7/" rel="alternate" type="text/html" title="freecodecampe Responsive Web Design Certificate" />
       <published>2020-05-16T00:00:00+02:00</published>
       <updated>2020-05-16T00:00:00+02:00</updated>
-      <id>https://felixjekel.de/2020/05/16/project-7</id>
-      <content type="html" xml:base="https://felixjekel.de/2020/05/16/project-7/"></content>
+      <id>https://felixjeckel.de/2020/05/16/project-7</id>
+      <content type="html" xml:base="https://felixjeckel.de/2020/05/16/project-7/"></content>
 
       
       
@@ -85,11 +85,11 @@
   
     <entry>
       <title type="html">Carrot Love</title>
-      <link href="https://felixjekel.de/2018/12/10/project-1/" rel="alternate" type="text/html" title="Carrot Love" />
+      <link href="https://felixjeckel.de/2018/12/10/project-1/" rel="alternate" type="text/html" title="Carrot Love" />
       <published>2018-12-10T00:00:00+01:00</published>
       <updated>2018-12-10T00:00:00+01:00</updated>
-      <id>https://felixjekel.de/2018/12/10/project-1</id>
-      <content type="html" xml:base="https://felixjekel.de/2018/12/10/project-1/"></content>
+      <id>https://felixjeckel.de/2018/12/10/project-1</id>
+      <content type="html" xml:base="https://felixjeckel.de/2018/12/10/project-1/"></content>
 
       
       
@@ -117,11 +117,11 @@
   
     <entry>
       <title type="html">Portfolio</title>
-      <link href="https://felixjekel.de/2018/11/25/project-2/" rel="alternate" type="text/html" title="Portfolio" />
+      <link href="https://felixjeckel.de/2018/11/25/project-2/" rel="alternate" type="text/html" title="Portfolio" />
       <published>2018-11-25T00:00:00+01:00</published>
       <updated>2018-11-25T00:00:00+01:00</updated>
-      <id>https://felixjekel.de/2018/11/25/project-2</id>
-      <content type="html" xml:base="https://felixjekel.de/2018/11/25/project-2/"></content>
+      <id>https://felixjeckel.de/2018/11/25/project-2</id>
+      <content type="html" xml:base="https://felixjeckel.de/2018/11/25/project-2/"></content>
 
       
       
@@ -149,11 +149,11 @@
   
     <entry>
       <title type="html">Amalgamate</title>
-      <link href="https://felixjekel.de/2018/11/10/project-3/" rel="alternate" type="text/html" title="Amalgamate" />
+      <link href="https://felixjeckel.de/2018/11/10/project-3/" rel="alternate" type="text/html" title="Amalgamate" />
       <published>2018-11-10T00:00:00+01:00</published>
       <updated>2018-11-10T00:00:00+01:00</updated>
-      <id>https://felixjekel.de/2018/11/10/project-3</id>
-      <content type="html" xml:base="https://felixjekel.de/2018/11/10/project-3/"></content>
+      <id>https://felixjeckel.de/2018/11/10/project-3</id>
+      <content type="html" xml:base="https://felixjeckel.de/2018/11/10/project-3/"></content>
 
       
       
@@ -181,11 +181,11 @@
   
     <entry>
       <title type="html">Ironfarm</title>
-      <link href="https://felixjekel.de/2018/10/25/project-4/" rel="alternate" type="text/html" title="Ironfarm" />
+      <link href="https://felixjeckel.de/2018/10/25/project-4/" rel="alternate" type="text/html" title="Ironfarm" />
       <published>2018-10-25T00:00:00+02:00</published>
       <updated>2018-10-25T00:00:00+02:00</updated>
-      <id>https://felixjekel.de/2018/10/25/project-4</id>
-      <content type="html" xml:base="https://felixjekel.de/2018/10/25/project-4/"></content>
+      <id>https://felixjeckel.de/2018/10/25/project-4</id>
+      <content type="html" xml:base="https://felixjeckel.de/2018/10/25/project-4/"></content>
 
       
       
@@ -213,11 +213,11 @@
   
     <entry>
       <title type="html">einpaarminuten</title>
-      <link href="https://felixjekel.de/2014/07/15/project-5/" rel="alternate" type="text/html" title="einpaarminuten" />
+      <link href="https://felixjeckel.de/2014/07/15/project-5/" rel="alternate" type="text/html" title="einpaarminuten" />
       <published>2014-07-15T00:00:00+02:00</published>
       <updated>2014-07-15T00:00:00+02:00</updated>
-      <id>https://felixjekel.de/2014/07/15/project-5</id>
-      <content type="html" xml:base="https://felixjekel.de/2014/07/15/project-5/"></content>
+      <id>https://felixjeckel.de/2014/07/15/project-5</id>
+      <content type="html" xml:base="https://felixjeckel.de/2014/07/15/project-5/"></content>
 
       
       
@@ -245,11 +245,11 @@
   
     <entry>
       <title type="html">wortskizze</title>
-      <link href="https://felixjekel.de/2014/07/14/project-6/" rel="alternate" type="text/html" title="wortskizze" />
+      <link href="https://felixjeckel.de/2014/07/14/project-6/" rel="alternate" type="text/html" title="wortskizze" />
       <published>2014-07-14T00:00:00+02:00</published>
       <updated>2014-07-14T00:00:00+02:00</updated>
-      <id>https://felixjekel.de/2014/07/14/project-6</id>
-      <content type="html" xml:base="https://felixjekel.de/2014/07/14/project-6/"></content>
+      <id>https://felixjeckel.de/2014/07/14/project-6</id>
+      <content type="html" xml:base="https://felixjeckel.de/2014/07/14/project-6/"></content>
 
       
       
